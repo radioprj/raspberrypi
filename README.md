@@ -1,5 +1,7 @@
 Eksperymentalny obraz FM POLAND Raspberry PI
 
+**To jest projekt hobbystyczny i rozwija się w autora własnym tempie**
+
 **Obraz przygotowany na bazie Raspberry PI v4**
 
 ![AdminMenu](https://github.com/radioprj/raspberrypi/blob/main/admin-menu.png)
