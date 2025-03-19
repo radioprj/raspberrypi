@@ -1,4 +1,4 @@
-Eksperymentalny obraz FM POLAND Raspberry PI
+Eksperymentalny obraz hotspotu FM Raspberry PI
 
 **To jest projekt hobbystyczny i rozwija się w autora własnym tempie**
 
