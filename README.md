@@ -2,7 +2,7 @@ Eksperymentalny obraz hotspota FM  Raspberry PI
 
 **To jest projekt hobbystyczny i rozwija się w autora własnym tempie**
 
-**Obraz przygotowany na bazie Raspberry PI v4**  Obraz na bazie 32 bitowej wersji Raspbian Debian 12 Bookworm powinien działać na wszystkich modelach RPI włącznie z RPI v5
+**Obraz przygotowany na bazie Raspberry PI v4**  Obraz na bazie 32 bitowej wersji Raspbian Debian 12 Bookworm powinien działać na wszystkich modelach RPI włącznie z RPI v5. Potwierdzone informacje są że obraz działa na RPI Zero 2W, RPI 3.
 
 Uwaga użytkownicy Pi 5. Aby serial port na GPIO 14 i 15 (ttyAMA0) był dostępny do programowania SA818 dla tej wersji PI należy 
 
