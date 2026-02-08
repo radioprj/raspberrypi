@@ -12,7 +12,7 @@ i dodanie dtparam=uart0  (na końcu pliku)**
 _Informacja o definicji ttyAMA0 dla PI 5 pochodzi z dokumentacji SHARI_
 
 Obraz o nazwie [hotspotfm-rpi.img.xz](https://github.com/radioprj/raspberrypi/releases/download/v1.0/hotspotfm-rpi.img.xz) nagrać na kartę microSD przy pomocy: https://etcher.balena.io/
-
+Obraz można też zapisać przy pomocy [Raspbian IMAGER - patrz opis](https://raw.githubusercontent.com/radioprj/opisy/main/Raspberry_IMAGER_hotspotfm.pdf)  ale w wersji 1.9.x (nie używać najnowszej wersji 2.x nie pozwala ustawiać WiFi dla obrazów własnych)
 Jeśli masz problem zapisać skompresowany obraz .xz na kartę microSD możesz go dekompresować darmowym narzędziem [7-zip](http://www.e7z.org/free-download.htm) Rozpakowany obraz możesz też zapisać na kartę microSD programem [Win32Image](https://sourceforge.net/projects/win32diskimager/files/Archive/)
 
 Login do konsoli via ssh:
